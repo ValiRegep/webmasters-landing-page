@@ -1,13 +1,13 @@
-import React, { lazy } from "react";
-import styled from "styled-components";
+// import React, { lazy } from "react";
+// import styled from "styled-components";
 
 
-const Testimonials = () => {
-  return (
-    <div>
+// const Testimonials = () => {
+//   return (
+//     <div>
       
-    </div>
-  );
-};
+//     </div>
+//   );
+// };
 
-export default Testimonials;
+// export default Testimonials;
