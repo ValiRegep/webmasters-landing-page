@@ -57,6 +57,7 @@ const SubText = styled.div`
   max-width: 80%;
   font-size: calc(0.7rem + 1vw);
   color: var(--nav2);
+  color: #e5a1f8;
   @media only Screen and (max-width: 48em) {
     font-size: calc(0.7rem + 1vw);
   }
