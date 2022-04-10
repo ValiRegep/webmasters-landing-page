@@ -66,6 +66,10 @@ const Line = styled.span`
   height: 15rem;
   margin-top: 2rem;
   border-radius: 20px 20px 0 0;
+  @media only Screen and (max-width: 1000px)
+  {
+    display:none;
+  }
 `;
 
 const Triangle = styled.span`
@@ -74,6 +78,10 @@ const Triangle = styled.span`
   border-left: 1.2rem solid transparent;
   border-right: 1.2rem solid transparent;
   border-top: 2rem solid var(--background);
+  @media only Screen and (max-width: 1000px)
+  {
+    display:none;
+  }
 `;
 
 const Content = styled.div`
