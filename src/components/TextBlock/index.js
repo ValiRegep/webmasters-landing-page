@@ -54,10 +54,11 @@ const Title = styled.div`
 `;
 
 const SubText = styled.div`
-  font-size: calc(0.5rem + 0.5vw);
+  max-width: 80%;
+  font-size: calc(0.7rem + 1vw);
   color: var(--nav2);
   @media only Screen and (max-width: 48em) {
-    font-size: calc(0.5rem + 1vw);
+    font-size: calc(0.7rem + 1vw);
   }
 `;
 
